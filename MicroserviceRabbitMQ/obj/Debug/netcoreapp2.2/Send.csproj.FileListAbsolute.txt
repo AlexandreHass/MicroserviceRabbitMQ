@@ -1,0 +1,11 @@
+C:\Users\alexa\source\repos\MicroserviceRabbitMQ\MicroserviceRabbitMQ\bin\Debug\netcoreapp2.2\Send.deps.json
+C:\Users\alexa\source\repos\MicroserviceRabbitMQ\MicroserviceRabbitMQ\bin\Debug\netcoreapp2.2\Send.runtimeconfig.json
+C:\Users\alexa\source\repos\MicroserviceRabbitMQ\MicroserviceRabbitMQ\bin\Debug\netcoreapp2.2\Send.runtimeconfig.dev.json
+C:\Users\alexa\source\repos\MicroserviceRabbitMQ\MicroserviceRabbitMQ\bin\Debug\netcoreapp2.2\Send.dll
+C:\Users\alexa\source\repos\MicroserviceRabbitMQ\MicroserviceRabbitMQ\bin\Debug\netcoreapp2.2\Send.pdb
+C:\Users\alexa\source\repos\MicroserviceRabbitMQ\MicroserviceRabbitMQ\obj\Debug\netcoreapp2.2\Send.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\MicroserviceRabbitMQ\MicroserviceRabbitMQ\obj\Debug\netcoreapp2.2\Send.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MicroserviceRabbitMQ\MicroserviceRabbitMQ\obj\Debug\netcoreapp2.2\Send.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\MicroserviceRabbitMQ\MicroserviceRabbitMQ\obj\Debug\netcoreapp2.2\Send.AssemblyInfo.cs
+C:\Users\alexa\source\repos\MicroserviceRabbitMQ\MicroserviceRabbitMQ\obj\Debug\netcoreapp2.2\Send.dll
+C:\Users\alexa\source\repos\MicroserviceRabbitMQ\MicroserviceRabbitMQ\obj\Debug\netcoreapp2.2\Send.pdb

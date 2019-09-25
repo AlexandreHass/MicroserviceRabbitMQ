@@ -1,0 +1,11 @@
+version: '3.7'
+
+services:
+  rabbitmq:
+    ports:
+      - "15672:15672"  # Important: In a production environment your should remove the external port
+      - "5672:5672"    # Important: In a production environment your should remove the external port
+  
+  projeto:
+   ports:
+      - "5100:80"

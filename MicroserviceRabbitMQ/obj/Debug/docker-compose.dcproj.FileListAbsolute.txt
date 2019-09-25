@@ -1,0 +1,5 @@
+C:\Users\alexa\source\repos\MicroserviceRabbitMQ\MicroserviceRabbitMQ\bin\Debug\MicroserviceRabbitMQ.dll
+C:\Users\alexa\source\repos\MicroserviceRabbitMQ\MicroserviceRabbitMQ\bin\Debug\MicroserviceRabbitMQ.pdb
+C:\Users\alexa\source\repos\MicroserviceRabbitMQ\MicroserviceRabbitMQ\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\alexa\source\repos\MicroserviceRabbitMQ\MicroserviceRabbitMQ\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MicroserviceRabbitMQ\MicroserviceRabbitMQ\obj\Debug\docker-compose.dcproj.CopyComplete

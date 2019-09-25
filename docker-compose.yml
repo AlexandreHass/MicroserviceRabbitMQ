@@ -1,0 +1,16 @@
+version: '3.7'
+
+services:
+  rabbitmq:
+    hostname: rabbit
+    image: rabbitmq:3-management-alpine
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+  projeto:
+    image: projeto
+    build:
+      context: .
+      dockerfile: MicroserviceRabbitMQ/Dockerfile
+    depends_on:
+      - rabbitmq

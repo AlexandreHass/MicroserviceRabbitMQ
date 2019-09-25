@@ -1,0 +1,23 @@
+services:
+  projeto:
+    build:
+      context: C:\Users\alexa\source\repos\MicroserviceRabbitMQ\MicroserviceRabbitMQ
+      dockerfile: Dockerfile
+    depends_on:
+    - rabbitmq
+    image: projeto
+    ports:
+    - published: 5100
+      target: 80
+  rabbitmq:
+    environment:
+      RABBITMQ_DEFAULT_PASS: guest
+      RABBITMQ_DEFAULT_USER: guest
+    hostname: rabbit
+    image: rabbitmq:3-management-alpine
+    ports:
+    - published: 5672
+      target: 5672
+    - published: 15672
+      target: 15672
+version: '3.7'
